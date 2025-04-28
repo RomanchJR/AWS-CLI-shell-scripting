@@ -1,0 +1,48 @@
+Last login: Sun Apr 27 14:37:53 on console
+(base) romanchrayamajhi@Romanchs-MacBook-Pro ~ % nano first_script.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                 File: first_script.sh                  Modified  
+
+#!/bin/bash
+
+echo "Hello, Romanch!"
+echo "Today is: $(date)"
+echo "Your current directory is: $(pwd)"
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
